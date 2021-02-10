@@ -1,1 +1,1 @@
-This group is governed by the [ISO/IEC Directives](https://www.iso.org/sites/directives/current/consolidated/index.xhtml#_idTextAnchor110).  The internal documents of this group shall be distributed to its members only.
+This private repository is governed by the [ISO/IEC Directives](https://www.iso.org/sites/directives/current/consolidated/index.xhtml#_idTextAnchor110).  The internal documents of this group shall be distributed to its members only.
