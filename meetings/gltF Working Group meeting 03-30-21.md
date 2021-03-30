@@ -22,7 +22,7 @@
 This was Bill Bernstein's first meeting. He discussed NIST's interest in using STEP and glTF together.
 
 #### Presentation - Khronos Group
-Neil gave a presentation that addressed the questions that the Discussion Group had submitted. [Here is a link to that presentation](../presentations/glTF Update to ISO TC 171 SC 2 Mar21.pdf).
+Neil gave a presentation that addressed the questions that the Discussion Group had submitted. [Here is a link to that presentation](../presentations/glTF_Update_to_ISO_TC171_SC2_Mar21.pdf).
 
 ##### KTX
 super compression is part of the normative spec.
